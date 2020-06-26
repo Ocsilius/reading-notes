@@ -4,4 +4,4 @@
 
 ##Table of Contents##
 
-#1.[Growth Mindset](https://ocsilius.github.io/)
+#1.[Growth Mindset](https://github.com/Ocsilius/Ocsilius.github.io/blob/master/Learning-Journal)
