@@ -1,7 +1,7 @@
-# Ocsilius.github.io
+# learning-journal
 
-# reading-notes-
+## reading-notes- ##
 
 ##Table of Contents##
 
-#1.[Growth Mindset](Learning-Journal.md)
+1.[Growth Mindset](Learning-Journal.md)
