@@ -13,14 +13,14 @@ I am excited to be able to learn programming, particularly _web development_ at 
 
 ***
 
-1. [Home Page](/README.md)
-1. [Growth Mindset](/Learning-Journal.md)
-1. [TBD](/Learning-Journal.md)
-1. [TBD](/Learning-Journal.md)
-1. [TBD](/Learning-Journal.md)
+###### 1. [Home Page](/README.md)
+###### 1. [Growth Mindset](/Learning-Journal.md)
+###### 1. [TBD](/Learning-Journal.md)
+###### 1. [TBD](/Learning-Journal.md)
+###### 1. [TBD](/Learning-Journal.md)
 
 ***
 
-[My Github](https://github.com/Ocsilius) 
+##### [My Github](https://github.com/Ocsilius) 
 
 ***
