@@ -12,12 +12,14 @@ A difficult concept to swallow for growth mindset is being open to and accepting
 1. *Utilize all resources available - One resource may not fit my style at times, and I can access many sources in my journey.*
 1. *When it gets hard if I keep at it I will get through. Learning never stops, even if it has seemed to in the moment.*
 
+## Table of Contents
+
 ***
 
-###### 1. [Home Page](/README.md)
-###### 1. [Growth Mindset](/Learning-Journal.md)
-###### 1. [TBD](/Learning-Journal.md)
-###### 1. [TBD](/Learning-Journal.md)
-###### 1. [TBD](/Learning-Journal.md)
+1. [Home Page](/README.md)
+1. [Growth Mindset](/Learning-Journal.md)
+1. [TBD](/Learning-Journal.md)
+1. [TBD](/Learning-Journal.md)
+1. [TBD](/Learning-Journal.md)
 
 ***
