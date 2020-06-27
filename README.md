@@ -1,7 +1,11 @@
 # learning-journal
 
-## reading-notes- ##
+
 
 ##Table of Contents##
 
-1.[Growth Mindset](Learning-Journal.md)
+-[Home Page](/README.md)
+-[Growth Mindset](/Learning-Journal.md)
+-[Growth Mindset](/Learning-Journal.md)
+-[Growth Mindset](/Learning-Journal.md)
+-[Growth Mindset](/Learning-Journal.md)
