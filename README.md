@@ -18,6 +18,6 @@ I am excited to be able to learn programming, particularly _web development_ at 
 
 ***
 
-[My Github](https://Ocsilius.github.io/reading-notes/) 
+[My Github](https://github.com/Ocsilius) 
 
 ***
