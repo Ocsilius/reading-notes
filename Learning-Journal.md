@@ -12,6 +12,15 @@ A difficult concept to swallow for growth mindset is being open to and accepting
 1. *Utilize all resources available - One resource may not fit my style at times, and I can access many sources in my journey.*
 1. *When it gets hard if I keep at it I will get through. Learning never stops, even if it has seemed to in the moment.*
 
+## Text Editor Notes
+
+- There is no *best text editor*, so you need to just try a variety and use them to see how it works for your workflow and style.
+- Recommended Features
+1. Code Completion
+1. Syntax Highlighting
+1. A variety of themes
+1. Extensions galore
+
 ## Table of Contents
 
 ***
