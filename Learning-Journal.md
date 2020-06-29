@@ -6,7 +6,7 @@ A difficult concept to swallow for growth mindset is being open to and accepting
 
 ***
 
-## <p align="center"><i>Self-Reminders</i></p>
+## Self-Reminders
 
 1. *When I am stuck on the problem, try a different aspect of the project and come back to it later while still progressing.*
 1. *Utilize all resources available - One resource may not fit my style at times, and I can access many sources in my journey.*
