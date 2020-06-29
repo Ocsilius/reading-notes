@@ -16,10 +16,10 @@ A difficult concept to swallow for growth mindset is being open to and accepting
 
 - There is no *best text editor*, so you need to just try a variety and use them to see how it works for your workflow and style.
 - Recommended Features
-1. Code Completion
-1. Syntax Highlighting
-1. A variety of themes
-1. Extensions galore
+1. Code Completion - Finishes and adds to code as you type by predicting/suggesting text. This removes cumbersome additions that are normally required (such as creating an end tag like </i> tags that will stop an element by hand rather than having the current text wrapped within the start and end tags.
+1. Syntax Highlighting - applies highlighted text according to type to allow another level of understanding without having to examine each element when looking for mistakes.
+1. A variety of themes - this will help with eye strain and during long hours. Most use a dark background and bright text.
+1. Extensions galore - Extra features that create more functionality than the base editor. These can be used to customize the coding experience, and streamline the particular type you are working on.
 
 ## Table of Contents
 
