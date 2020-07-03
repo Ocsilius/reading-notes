@@ -34,26 +34,27 @@
 1. Use the repository into a directory with another name of your choosing Format *$ git clone https://github.com/test mydirectory*
 
 ### Git Commands
-```
-git config
-git init
-git clone
-git add
-git commit
-git diff
-git reset
-git status
-git rm
-git log
-git show
-git tag
-git branch
-git checkout
-git merge
-git remote
-git push
-git pull
-git stash
+| Command | Use | Example |
+| ---     | --- | ---     |
+| `git config` |   |
+| `git init` |   |
+| `git clone` | |
+| `git add` |  |
+| `git commit` |  |
+| `git diff` |  |
+| `git reset` |  |
+| `git status` |  |
+| `git rm` |  |
+| `git log` |  |
+| `git show` |  |
+| `git tag` |  |
+| `git branch` |  |
+| `git checkout` |  |
+| `git merge` |  |
+| `git remote` |  |
+| `git push` |  |
+| `git pull`` |  |
+| `git stash` |  |
 ```
 
 
