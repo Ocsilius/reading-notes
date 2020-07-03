@@ -9,15 +9,18 @@
 
 ### Github
 - Different than **Git**.
-- A cloud-based version.
-- A sharing system for collaboration between coding.
-- It uses Git to help manage the team's work: Version tracking, Reviewing Changes, Keep changes separate until you want to add them in.
-- Allows code to be rolled back/changed/tested prior to implementation.
-- Can work on code offline and push online later, or vice-versa.
+  - A cloud-based version.
+  - A sharing system for collaboration between coding.
+  - It uses Git to help manage the team's work: Version tracking, Reviewing Changes, Keep changes separate until you want to add them in.
+  - Allows code to be rolled back/changed/tested prior to implementation.
+  - Can work on code offline and push online later, or vice-versa.
+
+### Gitflow:ACP
+- ACP = *Add/Commit/Push*
 
 ### Repository
 - A *collection of files* for a project.
-- Includes the structure and content in the same collection.
+  - Includes the structure and content in the same collection.
 
 
 ### Version control
@@ -29,6 +32,29 @@
 ### Git Clone
 1. Git Clone of an existing Git repository from a server with the repository's URL Format *$ git clone https://github.com/test*
 1. Use the repository into a directory with another name of your choosing Format *$ git clone https://github.com/test mydirectory*
+
+### Git Commands
+```
+git config
+git init
+git clone
+git add
+git commit
+git diff
+git reset
+git status
+git rm
+git log
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+git push
+git pull
+git stash
+```
 
 
 ## Navigating the Terminal
