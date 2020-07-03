@@ -1,4 +1,4 @@
-##Terms
+## Terms
 
 ### Git
  - A *version control* system.
@@ -27,3 +27,12 @@
 - Represent each version of files or set of files.
 
 ### Git Clone
+1. Git Clone of an existing Git repository from a server with the repository's URL Format *$ git clone https://github.com/test*
+1. Use the repository into a directory with another name of your choosing Format *$ git clone https://github.com/test mydirectory*
+
+
+## Navigating the Terminal
+
+1. ls -a = *shows all files in your location*
+1. pwd = *Shows current location*
+1. Git remote -v *shows what is out on the cloud and locally on the machine*
