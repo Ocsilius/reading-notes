@@ -36,6 +36,8 @@
 1. [Growth Mindset](/Learning-Journal.md)
 1. [Coder's Computer](/CODERS_COMPUTER.md)
 1. [Text_Editor](/Text_Editors.md)
-1. [TBD](/Learning-Journal.md)
+1. [Repository Clone](/GitClone.md)
 
 ***
+
+##### [My Github](https://github.com/Ocsilius)
