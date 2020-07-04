@@ -36,26 +36,26 @@
 ### Git Commands
 | Command | Use | Example |
 | ---     | --- | ---     |
-| `git config` |   |
-| `git init` |   |
+| `git config` | Settings for Git such as *user.name* and *user.email* ; Also can check settings with `git config --list` | *git config --global user.name "John Doe" |
+| `git init` | Creates a subdirectory in location   | *git init* - Creates a .git subdirectory with repository files. |
 | `git clone` | |
-| `git add` |  |
-| `git commit` |  |
-| `git diff` |  |
-| `git reset` |  |
-| `git status` |  |
-| `git rm` |  |
-| `git log` |  |
-| `git show` |  |
-| `git tag` |  |
-| `git branch` |  |
-| `git checkout` |  |
-| `git merge` |  |
-| `git remote` |  |
-| `git push` |  |
-| `git pull`` |  |
-| `git stash` |  |
-```
+| `git add` | Adds designated files for git to track  | *git add ``*.c``
+| `git commit` | Changes are committed locally but not to remote  | *git commit -m "Corrected repository Table of Contents" // *git commit -a* - Commits all files |
+| `git diff` | Shows differences in file before merging | *git diff <source> <target> |
+| `git reset` | Undoes the local changes and commits  | *git fetch origin // git reset --hard origin/master  (pulls from server and removes the newer changes) |
+| `git status` | Shows files changed and not yet committed | *git status*
+| `git rm` | Removes a remote | *git remote rm jane*
+| `git log` | Shows current ID, used to find a unique changeset ID  | *git log* |
+| `git show` | Shows tag and commit  | *git show v2.0*
+| `git tag` | Marks an update   | *git tag 1.0.0 <commitID> |
+| `git branch` | Creates a new branch when paired with the new name | *git branch test* |
+| `git checkout` | Switches to another branch  | *git checkout test*
+| `git merge` | Merges changes from one branch into your current one. | // |
+| `git remote` | Used to view the short names of all specified remote handles (with *git remote -v* you can view all remote URLs with their remote names) | *git remote -v* |
+| `git push` | Pushes changes "upstream" | *git push [remote-name][branch-name]* |
+| `git pull` | Use in the working directory to fetch and merge remote changes | *git pull* |
+| `git stash` | Temporarily removes changes and hides them for a clean working directory. To undo use *git stash apply*  | *git stash* |
+| `git help` | Get more info on a command - Format of *git help* ***command*** | *git help init* |
 
 
 ## Navigating the Terminal
