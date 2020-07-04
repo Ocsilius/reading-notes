@@ -41,14 +41,14 @@
 | `git init` | Creates a subdirectory in location   | *git init* - Creates a .git subdirectory with repository files. |
 | `git clone` | |  |
 | `git add` | Adds designated files for git to track  | *git add ``*.c``* |
-| `git commit` | Changes are committed locally but not to remote  | *git commit -m "Corrected repository Table of Contents" // *git commit -a* - Commits all files |
-| `git diff` | Shows differences in file before merging | *git diff <source> <target> |
+| `git commit` | Changes are committed locally but not to remote  | *git commit -m "Corrected repository Table of Contents" ; *git commit -a* - Commits all files |
+| `git diff` | Shows differences in file before merging | *git diff <source> <target>* |
 | `git reset` | Undoes the local changes and commits  | *git fetch origin // git reset --hard origin/master  (pulls from server and removes the newer changes) |
 | `git status` | Shows files changed and not yet committed | *git status*  |
 | `git rm` | Removes a remote | *git remote rm jane*  |
 | `git log` | Shows current ID, used to find a unique changeset ID  | *git log* |
 | `git show` | Shows tag and commit  | *git show v2.0* |
-| `git tag` | Marks an update   | *git tag 1.0.0 <commitID> |
+| `git tag` | Marks an update   | *git tag 1.0.0 <commitID>* |
 | `git branch` | Creates a new branch when paired with the new name | *git branch test* |
 | `git checkout` | Switches to another branch  | *git checkout test*  |
 | `git merge` | Merges changes from one branch into your current one. | // |
