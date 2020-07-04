@@ -63,3 +63,16 @@
 1. ls -a = *shows all files in your location*
 1. pwd = *Shows current location*
 1. Git remote -v *shows what is out on the cloud and locally on the machine*
+
+
+***
+
+1. [Home Page](/README.md)
+1. [Growth Mindset](/Learning-Journal.md)
+1. [Coder's Computer](/CODERS_COMPUTER.md)
+1. [Text_Editor](/Text_Editors.md)
+1. [Repository Clone](/GitClone.md)
+
+***
+
+##### [My Github](https://github.com/Ocsilius)
