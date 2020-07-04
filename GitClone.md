@@ -1,4 +1,4 @@
-## Terms
+## Git and Terminal Terms Notes
 
 ### Git
  - A *version control* system.
