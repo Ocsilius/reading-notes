@@ -57,6 +57,8 @@
 | `git pull` | Use in the working directory to fetch and merge remote changes | *git pull* |
 | `git stash` | Temporarily removes changes and hides them for a clean working directory. To undo use *git stash apply*  | *git stash* |
 | `git help` | Get more info on a command - Format of *git help* ***command*** | *git help init* |
+| `git checkout` | Creates a branch so you can ignore changes for now and try to fix updates | *git checkout feature1.6* |
+| `git reset head` | Resets the head of the stage for what will be committed | *git restet --hard HEAD* |
 
 
 ## Navigating the Terminal
