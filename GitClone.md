@@ -36,7 +36,7 @@
 ### Git Commands
 
 | Command      | Use | Example |
-| ---          | --- | ---     |
+|--------------|-----|---------|
 | `git config` | Settings for Git such as *user.name* and *user.email* ; Also can check settings with `git config --list` | *git config --global user.name "John Doe"* |
 | `git init` | Creates a subdirectory in location   | *git init* - Creates a .git subdirectory with repository files. |
 | `git clone` | |  |
