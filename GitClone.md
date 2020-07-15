@@ -68,6 +68,8 @@
 1. Git remote -v *shows what is out on the cloud and locally on the machine*
 
 
+## Table of Contents
+
 ***
 
 1. [Home Page](/README.md)
@@ -75,6 +77,7 @@
 1. [Coder's Computer](/CODERS_COMPUTER.md)
 1. [Text_Editor](/Text_Editors.md)
 1. [Repository Clone](/GitClone.md)
+1. [HTML_Notes](/HTML_Notes.md)
 
 ***
 
