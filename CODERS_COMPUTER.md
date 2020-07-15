@@ -44,6 +44,7 @@ lab had me stumped for quite a bit, with npm and JSNode making life *hell* by ac
 - There can be spaces between file and directory names. You can deal with this with **Quotes** around the entire item or escape characters *(\).*
 - If a file begins with a **"."** it is hidden. You can change the name of a file to hide/reveal it just by adding a *.* to the front. **Including** ***-a*** **in the command line does show hidden files and directories.**
 
+## Table of Contents
 
 ***
 
@@ -52,6 +53,7 @@ lab had me stumped for quite a bit, with npm and JSNode making life *hell* by ac
 1. [Coder's Computer](/CODERS_COMPUTER.md)
 1. [Text_Editor](/Text_Editors.md)
 1. [Repository Clone](/GitClone.md)
+1. [HTML_Notes](/HTML_Notes.md)
 
 ***
 
