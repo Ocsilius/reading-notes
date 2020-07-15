@@ -18,6 +18,7 @@ I am excited to be able to learn programming, particularly _web development_ at 
 1. [Coder's Computer](/CODERS_COMPUTER.md)
 1. [Text_Editor](/Text_Editors.md)
 1. [Repository Clone](/GitClone.md)
+1. [HTML_Notes](/HTML_Notes.md)
 
 ***
 
