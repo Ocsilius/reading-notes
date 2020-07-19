@@ -41,7 +41,9 @@
       - Larger sites can use these groupings for different site sections rather than simply a number of disparate pages.
 - Usually begins at the *home page*
   - Larger sites typically have *HOME PAGE* lead to one of several larger groupings to triage by information types.
-  ## Table of Contents
+
+### structure
+
 
 ***
 
@@ -51,5 +53,6 @@
 1. [Text_Editor](/Text_Editors.md)
 1. [Repository Clone](/GitClone.md)
 1. [HTML_Notes](/HTML_Notes.md)
+1. [HTML Page](/index.html)
 
 ***

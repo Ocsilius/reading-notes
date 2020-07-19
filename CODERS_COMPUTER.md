@@ -4,7 +4,7 @@ I had *some* experience with the _command line/Powershell_ terminal, but it is a
 days later can result in temporary elation as something works. The version point of the setting up the computer part of this
 lab had me stumped for quite a bit, with npm and JSNode making life *hell* by acting as if they were installed, then resulting in errors. I went to the resource Google to figure out, as Stack Overflow has some good responses with a variety of suggestions to tackle the error. I needed to remove Node and reinstall with a different curl/bash line than what was in the setting up the computer pages.
 
-## Command Line 
+## Command Line
 ### Terms
 
 1. **Bash** *(Bourne again shell).
@@ -35,7 +35,7 @@ lab had me stumped for quite a bit, with npm and JSNode making life *hell* by ac
 - Tab Completion = Tab will autocomplete when you begin typing an action/path.
 
 
-## Files 
+## Files
 
 ### Linux Notes
 
@@ -54,9 +54,10 @@ lab had me stumped for quite a bit, with npm and JSNode making life *hell* by ac
 1. [Text_Editor](/Text_Editors.md)
 1. [Repository Clone](/GitClone.md)
 1. [HTML_Notes](/HTML_Notes.md)
+1. [HTML Page](/index.html)
 
 ***
 
-##### [My Github](https://github.com/Ocsilius) 
+##### [My Github](https://github.com/Ocsilius)
 
 ***

@@ -14,7 +14,7 @@
 - Important aspects of text editors.
 1. Plain text (no inherent italic, underline, etc.)
 1. Store the website in a different folder that is dedicated to your work rather than in the default folder structure.
-1. Ensure appropriate extension on title name (`___.html`, `____.css`). 
+1. Ensure appropriate extension on title name (`___.html`, `____.css`).
 1. They are generally not feature-rich, so trying Third-Party is an easy way to see what is possible.
 
 ### Free, robust text editors:
@@ -40,6 +40,7 @@
 1. [Text_Editor](/Text_Editors.md)
 1. [Repository Clone](/GitClone.md)
 1. [HTML_Notes](/HTML_Notes.md)
+1. [HTML Page](/index.html)
 
 ***
 
